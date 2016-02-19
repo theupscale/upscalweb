@@ -1,0 +1,40 @@
+<?php 
+// Translation strings
+__('Design Settings', 'framework');
+__('General', 'framework');
+__('Logo', 'framework');
+__('Logo Title', 'framework');
+__('Logo Tagline', 'framework');
+__('Logo Image', 'framework');
+__('Link URL', 'framework');
+__('Link Colors', 'framework');
+__('Link', 'framework');
+__('Hover', 'framework');
+__('Underline Links', 'framework');
+__('Underline on Hover', 'framework');
+__('Font Styles', 'framework');
+__('Default', 'framework');
+__('Headings', 'framework');
+__('Header', 'framework');
+__('Text Color', 'framework');
+__('Background', 'framework');
+__('Image', 'framework');
+__('Footer', 'framework');
+__('Configure the appearance of your site and customize it for your needs . Set logos, colors, fonts and more.', 'framework');
+__('Optional', 'framework');
+__('The site name or logo text.', 'framework');
+__('Show tagline below the logo text.', 'framework');
+__('Select an optional image for the site logo.', 'framework');
+__('The URL to link the site logo. If blank the default site URL is used.', 'framework');
+__('Underline on hover.', 'framework');
+__('Choose the heading font family.', 'framework');
+__('For example: 12, 24px, 1em, 1.75', 'framework');
+__('Click the button to edit Google font styles.', 'framework');
+__('Set the header text color.', 'framework');
+__('The background color of the header.', 'framework');
+__('Optional background image.', 'framework');
+__('Horizontal position of the background image.', 'framework');
+__('Vertical position of the background image.', 'framework');
+__('Background image repeat.', 'framework');
+__('The background color of the footer.', 'framework');
+?>
